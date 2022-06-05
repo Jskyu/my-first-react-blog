@@ -1,2 +1,3 @@
 # my-first-react-blog
-https://github.com/Jskyu/my-first-react
+https://jskyu.github.io/my-first-react-blog/ \
+https://github.com/Jskyu/my-first-react/
